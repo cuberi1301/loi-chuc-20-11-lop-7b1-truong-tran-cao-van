@@ -1,0 +1,86 @@
+@font-face {
+	font-family: 'thefont';
+	src: url(D:/loichuc2011/font/Simplesnails.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.tieude {
+	margin-left: 10px;
+	font-family: Segoe UI Semibold;
+	padding-left: 30px;
+	display: flex;
+	gap: 10px;
+	text-align: left;
+	align-items: center;
+	text-transform: uppercase;
+	border: 5px solid #7dc8ff;
+	border-radius: 30px;
+	border-style: ridge;
+	color: #000064;
+}
+
+.dong1 {
+	padding: 100px;
+	display: flex;
+	gap: 20px;
+}
+
+.khung1 {
+	font-family: Segoe Script;
+	width: 300px;
+	border: 3px solid #7dc8ff;
+	border-radius: 10px;
+	word-wrap: break-word;
+	padding: 10px;
+}
+
+.khung2 {
+	font-family: Segoe Script;
+	width: 300px;
+	border: 3px solid hotpink;
+	border-radius: 10px;
+	word-wrap: break-word;
+	padding: 10px;
+	margin-left: 100px;
+}
+
+.dong2 {
+	padding-left: 100px;
+	display: flex;
+	gap: 20px;
+}
+
+.khung3 {
+	font-family: Segoe Script;
+	width: 300px;
+	border: 3px solid #0bf023;
+	border-radius: 10px;
+	word-wrap: break-word;
+	padding: 10px;
+}
+
+.khung4 {
+	font-family: Segoe Script;
+	width: 300px;
+	border: 3px solid purple;
+	border-radius: 10px;
+	word-wrap: break-word;
+	padding: 10px;
+	margin-left: 100px;
+}
+
+.dongcuoi {
+	padding: 50px;
+	text-align: center;
+}
+
+.khung5 {
+	margin-top: 10px;
+	padding: 5px;
+	border-radius: 10px;
+	border: 3px solid #01f3f2;
+	border-style: dotted;
+	font-size: 30px;
+	font-family: 'thefont', Simplesnails;
+}
