@@ -5,6 +5,11 @@
 	font-style: normal;
 }
 
+.luuy {
+	text-align: center;
+	opacity: 0.6;
+}
+
 .tieude {
 	margin-left: 10px;
 	font-family: Segoe UI Semibold;
@@ -85,3 +90,4 @@
 	font-family: 'thefont', Simplesnails;
 
 }
+
